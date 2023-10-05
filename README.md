@@ -1,5 +1,7 @@
 # 100day_with_python (ภาษาไทย)
 
+ Status : `In progress`
+ <br><br>
 - ก่อนเริ่มต้องบอกก่อนเลยว่า Code และเนื้อหาทั้งหมดมาจาก : https://github.com/phillipai/100-days-of-code-python/tree/main
  <br>
 
